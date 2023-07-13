@@ -1,6 +1,6 @@
-int red_led_pin = 13;
+int red_led_pin = 11;
 int orange_led_pin = 12;
-int green_led_pin = 11;
+int green_led_pin = 13;
 
 int led_delay_ms = 1000;
 
